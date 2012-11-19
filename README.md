@@ -15,3 +15,8 @@ This is a test project for novice to practise how to use git.
 
 尝试一下
 在此尝试一下
+
+
+测试一下，添加几句话。 
+「欲变其世，先变其人」。
+完。
